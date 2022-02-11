@@ -2,6 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
+## Description
 
 A Business Card App built via dart on Flutter as part of my Flutter Course
